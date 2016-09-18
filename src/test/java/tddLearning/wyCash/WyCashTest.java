@@ -1,3 +1,5 @@
+package tddLearning.wyCash;
+
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertEquals;
